@@ -1,0 +1,22 @@
+{
+  "name": "constructorHangman",
+  "version": "1.0.0",
+  "description": "An updated Hangman Game using Json",
+  "main": "main.js",
+
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gentletom/constructorHangman.git"
+  },
+  "author": "Thomas Gentle",
+  "license": "ISC",
+  "issues": {
+    "url": "https://github.com/gentletom/constructorHangman/issues"
+  },
+  "homepage": {
+    "url": "https://github.com/gentletom/constructorHangman#readme"
+}
