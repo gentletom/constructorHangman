@@ -1,8 +1,8 @@
-#Hangman Game Using Node.js
+# Hangman Game Using Node.js
 
-###Coding Bootcamp at Georgia Tech
+### Coding Bootcamp at Georgia Tech
 
-#####By: Thomas Gentle
+##### By: Thomas Gentle
 
 Instructions
 
