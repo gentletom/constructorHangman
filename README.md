@@ -1,8 +1,11 @@
-Hangman Game Using Node.js
-Coding Bootcamp at Georgia Tech
-By: Thomas Gentle
+#Hangman Game Using Node.js
+
+###Coding Bootcamp at Georgia Tech
+
+#####By: Thomas Gentle
 
 Instructions
+
 The completed game should meet the following criteria:
 
 The completed game should be able to receive user input using the inquirer or prompt npm packages.
@@ -19,12 +22,17 @@ Each constructor function should be in it's own file and be exported and require
 
 Look into function prototypes and use them for a few of your constructor's methods.
 
-Notes
-Since this assignment is a command-line application, you don't need to deploy it anywhere. You will, however, be required to upload it to Github.
+Notes:
+
+Since this assignment is a command-line application, you don't need to deploy it anywhere. 
+
+You will, however, be required to upload it to Github.
 
 Remember to include a package.json file containing your project dependencies in your Github repo!
 
 Node.js: Download the latest version of Node https://nodejs.org/en/
+
 Built With:
+
 - Sublime Text
 - Terminal/Git Bash
